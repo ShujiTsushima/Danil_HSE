@@ -1,2 +1,2 @@
 # Danil_HSE
-HomeWork 6
+Программа переводит различные даты в тип datetime
